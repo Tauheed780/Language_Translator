@@ -7,7 +7,7 @@ A simple web app for translating text between English and 11 other languages, po
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-MarianMT-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**[Live Demo](#)** &nbsp;•&nbsp; [Features](#features) &nbsp;•&nbsp; [Setup](#setup) &nbsp;•&nbsp; [Usage](#usage)
+**[Live Demo](https://languagetranslator-h8a6a4serqywkgvq3spwqo.streamlit.app/)** &nbsp;•&nbsp; [Features](#features) &nbsp;•&nbsp; [Setup](#setup) &nbsp;•&nbsp; [Usage](#usage)
 
 ---
 
@@ -24,8 +24,10 @@ This project provides a browser-based interface for machine translation. Text is
 
 ## Screenshot
 
-> _Add a screenshot of the app here after deploying, e.g._
-> `![App screenshot](assets/screenshot.png)`
+
+> ![App screenshot](assets/interface.png)
+> ![App screenshot](assets/translated_text.png)
+ 
 
 ## Setup
 
