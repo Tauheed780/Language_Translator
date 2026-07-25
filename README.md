@@ -77,9 +77,10 @@ This app deploys for free on [Streamlit Community Cloud](https://streamlit.io/cl
 
 ```
 .
-├── translation_app.py     # Streamlit interface
+├── translation_app.py      # Streamlit interface
 ├── requirements.txt        # Python dependencies
-└── README.md               # This file
+├── README.md               # This file
+└── assets                  # Contain screenshots
 ```
 
 ## Tech Stack
