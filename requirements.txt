@@ -1,0 +1,7 @@
+# Libraries required for the project:
+streamlit
+pandas
+transformers
+torch
+sentencepiece
+sacremoses
